@@ -1,0 +1,11 @@
+{
+    "name": "Nastia",
+    "surname": "Olefir",
+    "phones": ["123"],
+    "sites": ["http://1111.com"],
+    "adress": {
+         "country": "UA",
+         "city": "Kyiv",
+         "street": "qwert"
+    }
+}
